@@ -1,0 +1,36 @@
+    2  mkdir folder1
+    3  ls
+    4  mkdir f1 f2 f3
+    5  ls
+    6  mkdir f4,f5,f6
+    7  ls
+    8  cd folder1
+    9  mkdir a1
+   10  ls
+   11  cd a1
+   12  mkdir a2
+   13  cd a2
+   14  mkdir a3
+   15  cd a3
+   16  clear
+   17  cd ..
+   18  cd ../../
+   19  clear
+   20  cd a1/a2/a3/
+   21  cd
+   22  history
+   23  ls
+   24  touch file1
+   25  cat file1
+   26  echo "line one of file2" > file2
+   27  ls
+   28  echo "line two  of file2" >> file2
+   29  cat fifilr2
+   30  cat file2
+   31  echo "data of file change" > file2
+   32  cat file2
+   33  nano file3
+   34  cat file3
+   35  vi file4
+   36  cat file4
+   37  history
